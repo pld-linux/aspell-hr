@@ -1,5 +1,5 @@
 Summary:	Croatian dictionary for aspell
-Summary(pl.UTF-8):   Słownik chorwacki dla aspella
+Summary(pl.UTF-8):	Słownik chorwacki dla aspella
 Name:		aspell-hr
 Version:	0.51
 %define	subv	0
